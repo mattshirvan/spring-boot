@@ -1,0 +1,17 @@
+127.0.0.1 - - [18/Jun/2020:20:53:00 -0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:53:22 -0700] "GET /SimpleProject/ HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:54:22 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:54:33 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:54:50 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:24 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:30 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:32 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:37 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:38 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:55:43 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+127.0.0.1 - - [18/Jun/2020:20:56:51 -0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:56:59 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:57:02 -0700] "GET /SimpleProject/Home/?name=Matt&language=Java&town=Olympia HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:57:16 -0700] "GET /SimpleProject/ HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:57:24 -0700] "GET /SimpleProject/Home HTTP/1.1" 200 105
+0:0:0:0:0:0:0:1 - - [18/Jun/2020:20:58:12 -0700] "GET /SimpleProject/Home?name=Matt&language=Java&town=Olympia HTTP/1.1" 200 99
